@@ -1,8 +1,8 @@
 package  example.myapp
 
-fun buildAquarium() {
-    val myAquarium = Aquarium()
-}
+//fun buildAquarium() {
+//    val myAquarium = Aquarium()
+//}
 fun main() {
     buildAquarium()
 }
